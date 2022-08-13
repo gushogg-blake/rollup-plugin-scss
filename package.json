@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-scss",
+  "name": "@gushogg-blake/rollup-plugin-scss",
   "version": "3.0.0",
   "description": "Rollup multiple .scss, .sass and .css imports",
   "main": "index.cjs.js",
@@ -49,7 +49,6 @@
     "@types/node-sass": "^4.11.1",
     "@types/sass": "^1.16.0",
     "autoprefixer": "^9.8.6",
-    "node-sass": "5",
     "postcss": "^7.0.32",
     "prettier": "2",
     "rollup": "2",
